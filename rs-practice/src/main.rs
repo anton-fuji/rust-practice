@@ -1,6 +1,6 @@
 fn main() {
-    let a = 10;
-    let aref1 = &a;
-    let aref2 = &a;
-    println!("{}, {}, {}", a, aref1, aref2)
+    let a: i32 = 10;
+    let b: usize = 100;
+    let x = (a as usize) + b;
+    println!("{}", x);
 }
