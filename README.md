@@ -9,3 +9,5 @@
 ### 問題集
 - [**rustlings**](https://github.com/rust-lang/rustlings)
 
+### Tips
+- [**Rust Language Cheat Sheet**](https://cheats.rs/)
